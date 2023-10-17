@@ -80,3 +80,11 @@ newText10 = input ("Enter an Noun:")
 newPara+= newText10
 print(newPara)
 #Print(newPara)
+
+start = 
+finish = 
+newPara += passage[start:finish]
+newText11 = input ("Enter an Noun:")
+newPara+= newText11
+print(newPara)
+#Print(newPara)
